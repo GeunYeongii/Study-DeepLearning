@@ -1,0 +1,6 @@
+[미래연구소딥러닝] [4:02 PM] 오늘 강의에 대한 실습 영상과 Matplotlib 강의 링크입니다.
+(Matplotlib도 여러분이 프로젝트 할 때, 간혹 쓰실  일이 있으나 중요도가 아주 큰 것이 아니어서 영상 강의로 공유합니다. 강의 자료는 진석 튜터님이 공유드린 링크에서 확인해볼 수 있습니다.)
+
+1) CNN : https://youtu.be/qjexjuT6Hrg
+2) Matplotlib 1강 : https://youtu.be/Eb4iFrrpREY
+3) Matplotlib 2강 : https://youtu.be/DxOYt6_yNew 

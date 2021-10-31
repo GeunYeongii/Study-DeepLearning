@@ -1,0 +1,17 @@
+강의 말미에 공지드린 pytorch와 tensorflow 전반에 대한 강의입니다.
+
+0) 강의 자료
+(https://drive.google.com/drive/folders/1z9JSJGsR8-b5-lDHKIMLHuCFnJBcMOfA?usp=sharing)
+1> Introduction to DL Framework.pdf
+2> iterator_generator.ipynb
+3> pytorch_tutorial.ipynb
+
+1) Introduction to DL Framework (Tensorflow)
+(https://youtu.be/F54ZNn3QN_Y)
+이 강의는 DL Framework의 간단한 역사와 tensorflow의 여러 가지 구현 방식을 안내합니다. 필수적으로 공부해야하는 부분은 아니며, 나중에 프로젝트할 때, 여러 코드를 읽어야 하는 경우 필요할 수 있습니다.
+강의 자료는 ‘Introduction to DL Framework.pdf’만 있으면 됩니다.
+
+2) Pytorch Tutorial
+(https://youtu.be/1LCvV41JujQ)
+DL Framework에서 Tensorflow와 양강구도를 이루고 있는 Pytorch에 대한 강의입니다. Pytorch에 입문할 때 필요할 부분만 간단하게 강의합니다. 실제 코드는 이 코드보다 어려울 수 있습니다. 대학원 진학에 관심있는 분들은 꼭 이번 주 수업 전에 들어보시고 실제 프로젝트를 pytorch로 진행할 지에 대해서도 고민해보시기 바랍니다.
+강의 자료는 ‘pytorch_tutorial.ipynb’만 있으면 되지만 iter()와 next()를 모른다면 ‘iterator_generator.ipynb’를 읽어보기 바랍니다.

@@ -1,0 +1,8 @@
+6. 실습 자료 해설 영상
+1) pandas
+1> 1, 2강 : https://youtu.be/piL2DEg9QBI
+2> 3강 : https://youtu.be/msVE2ResqoI
+3> 4, 5강 : https://youtu.be/0OsJiuFORag
+2) RNN Tutorial
+1> 1강 : https://youtu.be/iPhtOPR3l7k
+2> 2강 : https://youtu.be/Q2F8HxhNjpU
